@@ -37,6 +37,12 @@ function Projects() {
           h3="Portfolio Page"
           p="Portfolio Page"
         />
+         <ProjectCard
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI_fiKzXq396PBgupOl0xqmrUhUHYIIJ5dsw&s"
+          link="https://github.com/Priyaa-Rana/BeShoppy/tree/main/BeShoppy"
+          h3="Ecommerce App"
+          p="Ecommerce App"
+        />
       </div>
     </section>
   );
